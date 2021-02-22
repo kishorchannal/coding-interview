@@ -21,5 +21,8 @@
 ### Data Structures
 
 * Tree
+  * Binary tree
+  * Binary Search tree
+* Graph
 
 
