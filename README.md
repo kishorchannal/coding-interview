@@ -15,6 +15,8 @@
   * Recursion
 * Other Concepts
   * Bitwise operations
+* Folder1 Concepts
+* Folder2 Concepts
 
 ----
 
@@ -25,4 +27,5 @@
   * Binary Search tree
 * Graph
 
+------
 
