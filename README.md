@@ -15,7 +15,7 @@
   * Recursion
 * Other Concepts
   * Bitwise operations
-* Folder1 Concepts
+* [Folder1 Concepts](https://github.com/kishorchannal/coding-interview/blob/main/All%20Files/Folder%201/Folder1_Notes.md)
 * Folder2 Concepts
 
 ----
